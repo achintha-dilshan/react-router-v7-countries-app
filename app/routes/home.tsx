@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div className="px-4 md:py-32 py-16 bg-white md:px-0">
       <div className="container items-center max-w-6xl mx-auto px-4">
-        <div className="flex flex-col md:flex-row gap-4">
+        <div className="flex flex-col md:flex-row gap-4 items-center">
           <div className="w-full md:w-1/2">
             <div className="space-y-6 sm:max-w-md lg:max-w-lg">
               <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl">
@@ -57,7 +57,7 @@ export default function Home() {
           <div className="w-full md:w-1/2">
             <div className="overflow-hidden rounded-md shadow-xl">
               <img
-                src="https://image.winudf.com/v2/image/Ymx1ZWNhcC5pbWFnZXouYmVhdXRpZnVsX2NvdW50cmllc193YWxscGFwZXJzX3NjcmVlbl8wXzlpMW14OWl1/screen-0.webp?fakeurl=1&type=.webp"
+                src="https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Explore countries"
                 className="w-full h-auto"
               />
